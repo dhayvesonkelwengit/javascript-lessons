@@ -69,12 +69,15 @@ console.log(`Número sorteado: ${numero}`);
 
 VAMOS APRENDER JUNTOS?
 
-📲 Onde me encontrar
+---
+
+## 📲 Onde me encontrar
 <p align="left"> <a href="https://www.instagram.com/dhayvesonkelwen/" target="_blank"> <img src="https://img.shields.io/badge/@dhayvesonkelwen-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/seu_linkedin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn%20-%20Meu%20Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/dhayvesonkelwengit" target="_blank"> <img src="https://img.shields.io/badge/Portfólio%20Pessoal-000?style=for-the-badge&logo=dev.to&logoColor=white"/> </a> </p>
 
 ---
 
 ## 🎯 Metas com este repositório
+
  * Entender o básico do JS
 
  * Praticar com projetos reais
