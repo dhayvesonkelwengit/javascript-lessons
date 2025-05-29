@@ -52,7 +52,7 @@ function saudacao(nome) {
 console.log(saudacao("Kelwen"));
 ```
 
-## 🎲 Gerador de número aleatório
+### 🎲 Gerador de número aleatório
 ```
 const numero = Math.floor(Math.random() * 100) + 1;
 console.log(`Número sorteado: ${numero}`);
